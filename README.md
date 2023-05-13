@@ -1,6 +1,6 @@
 # flutter_meal_app
 
-A new Flutter project.
+Meal app to learn about flutter state management and animations
 
 ## Getting Started
 
